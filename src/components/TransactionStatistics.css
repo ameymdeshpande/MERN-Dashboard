@@ -1,0 +1,17 @@
+.statistics-box {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.statistics-box h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.statistics-box div {
+    font-size: 1.2em;
+    color: #555;
+}
